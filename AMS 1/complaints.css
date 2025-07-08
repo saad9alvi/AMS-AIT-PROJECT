@@ -1,0 +1,17 @@
+.complaints-section {
+  padding: 30px;
+  background-color: #f4f4f4;
+}
+.complaints-section h2 {
+  margin-bottom: 20px;
+}
+.complaint-form textarea {
+  width: 100%;
+  height: 120px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.previous-complaints {
+  margin-top: 20px;
+}

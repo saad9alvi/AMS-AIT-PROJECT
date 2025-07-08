@@ -1,0 +1,17 @@
+.maintenance-section {
+  padding: 30px;
+  background-color: #f6f9ff;
+}
+.maintenance-section h2 {
+  margin-bottom: 20px;
+}
+.maintenance-form textarea, .maintenance-form input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+.maintenance-status {
+  margin-top: 20px;
+}

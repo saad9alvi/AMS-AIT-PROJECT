@@ -1,0 +1,37 @@
+.rent-section {
+  padding: 30px;
+  background-color: #fffdf0;
+}
+.rent-section h2 {
+  margin-bottom: 20px;
+}
+.rent-status, .rent-history {
+  margin-top: 20px;
+}
+.rent-status p {
+  font-size: 16px;
+  font-weight: bold;
+}
+.rent-history table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+.rent-history th, .rent-history td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+/* announcement.css */
+.announcement-section {
+  padding: 30px;
+  background-color: #fff3e6;
+}
+.announcement-section h2 {
+  margin-bottom: 20px;
+}
+.announcement {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
